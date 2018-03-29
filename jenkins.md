@@ -42,6 +42,8 @@ You can use feature branches as long as you merge to master once a day.
 
 
 ## Jenkins
+### Statistika
+Jenkinsi [kasutususstatistika](http://stats.jenkins.io/)
 ### Dokumentatsioon
 Dokumentatsioon asub [siin](https://jenkins.io/doc/)
 #### Getting started
@@ -58,12 +60,13 @@ Jenkinsi tööde visualiseerimine [Blue Ocean](https://jenkins.io/doc/book/blueo
 [Gitlab CI baasil](https://docs.gitlab.com/ee/ci/examples/README.html)
 
 
-Ülesanne
+## Ülesanne
 
 Jenkinsi installimine, seadistamine ja ühe töö seadistamine
 
-1. Jenkinsi installimine vastavalt [juhendile][installimine]
-2. Seadistamine vastavalt [slaididele][eelmised slaidid]
+1. Jenkinsi installimine vastavalt [juhendile][installimine].
+2. Jenkinsi seadistamine vastavalt [slaididele][eelmised slaidid].
+3. Töö seadistamine analoogselt [slaididele][eelmised slaidid].
 
 
 [installimine]: https://jenkins.io/doc/book/installing
