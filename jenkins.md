@@ -67,4 +67,4 @@ Jenkinsi installimine, seadistamine ja ühe töö seadistamine
 
 
 [installimine]: https://jenkins.io/doc/book/installing
-[eelmised slaidid]: (http://dijkstra.cs.ttu.ee/~gert/jenkins/
+[eelmised slaidid]: http://dijkstra.cs.ttu.ee/~gert/jenkins/
