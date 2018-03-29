@@ -1,7 +1,7 @@
 # Pidevkooste ja Jenkins (11. nädal)
 
 ## Eelmised slaidid
-Eelmise aasta slaide saab vaadata [siit](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
+Varasemaid slaide saab vaadata [siit][eelmised slaidid].
 
 ## Pidevkooste (Continuous integration)
 * [Gitlab DevOps strategy](https://about.gitlab.com/2017/10/04/devops-strategy/)
@@ -47,17 +47,24 @@ Dokumentatsioon asub [siin](https://jenkins.io/doc/)
 #### Getting started
 Alustamise juhend on [siin](https://jenkins.io/doc/book/getting-started/)
 #### Installimine
-Kuidas installida leiab [siit](https://jenkins.io/doc/book/installing)
-#### Pipeline
-Jenkinsi tööd [pipelinedena](https://jenkins.io/doc/book/pipeline/)
+Kuidas installida leiab [siit][installimine]
+#### Konveier (pipeline)
+Jenkinsi tööd [konveieritena](https://jenkins.io/doc/book/pipeline/)
 #### Blue Ocean
 Jenkinsi tööde visualiseerimine [Blue Ocean](https://jenkins.io/doc/book/blueocean/getting-started/)
 
 
-## Näited?
-https://docs.gitlab.com/ee/ci/examples/README.html
+## Näited
+[Gitlab CI baasil](https://docs.gitlab.com/ee/ci/examples/README.html)
 
 
 Ülesanne
 
+Jenkinsi installimine, seadistamine ja ühe töö seadistamine
 
+1. Jenkinsi installimine vastavalt [juhendile][installimine]
+2. Seadistamine vastavalt [slaididele][eelmised slaidid]
+
+
+[installimine]: https://jenkins.io/doc/book/installing
+[eelmised slaidid]: (http://dijkstra.cs.ttu.ee/~gert/jenkins/

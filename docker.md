@@ -11,5 +11,3 @@ VMs = maja
 Paneelmaja = containers
 
 
-Jenkins ülesanne
-install jenkins + configure build slave + configure one build job
