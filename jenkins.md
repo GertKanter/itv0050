@@ -39,6 +39,7 @@ You can use feature branches as long as you merge to master once a day.
 ### Veel videoloenguid
 * [Managing and Maintaining a DevOps Assembly Line](https://www.youtube.com/watch?v=BJOkB-AUyOo) by Viktor Farcic (Cloudbees)
 * [Enterprise DevOps and the Modern Mainframe](https://www.youtube.com/watch?v=mfaUG3Dbk5I) by Brian Dawson (Cloudbees) and Steve Kansa (Compuware)
+* [Blue Ocean: A New User Experience for Jenkins](https://www.youtube.com/watch?v=mn61VFdScuk) by James Dumay
 
 
 ## Jenkins
