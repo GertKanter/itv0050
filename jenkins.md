@@ -4,6 +4,7 @@
 Varasemaid slaide saab vaadata [siit][eelmised slaidid].
 
 ## Pidevkooste (Continuous integration)
+* [Pidevkooste serverid](https://www.slant.co/topics/799/~best-continuous-integration-tools)
 * [Gitlab DevOps strategy](https://about.gitlab.com/2017/10/04/devops-strategy/)
 
 ## Pidevtarne (Continuous delivery)
