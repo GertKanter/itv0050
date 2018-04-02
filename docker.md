@@ -10,4 +10,6 @@ https://www.redhat.com/en/topics/containers/what-is-docker
 VMs = maja
 Paneelmaja = containers
 
+## Ülesanne
 
+Läbi lahendada [näiteülesanded](http://docker.atbaker.me/exercises/exercise_1.html)
