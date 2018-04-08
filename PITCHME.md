@@ -1,4 +1,4 @@
-# Pidevkooste ja Jenkins (11. nädal)
+# Pidevkooste ja Jenkins
 
 ---
 
