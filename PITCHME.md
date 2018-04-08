@@ -3,7 +3,7 @@
 ---
 
 ## Eelmised slaidid
-Varasemaid slaide saab vaadata [siit][eelmised slaidid].
+Varasemaid slaide saab vaadata [siit](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
 
 ---
 
@@ -104,7 +104,7 @@ Alustamise juhend on [siin](https://jenkins.io/doc/book/getting-started/)
 ---
 
 #### Installimine
-Kuidas installida leiab [siit][installimine]
+Kuidas installida leiab [siit](https://jenkins.io/doc/book/installing)
 
 ---
 
@@ -118,8 +118,10 @@ Jenkinsi tööde visualiseerimine [Blue Ocean](https://jenkins.io/doc/book/blueo
 
 ---
 
-## Näited
-[Gitlab CI baasil](https://docs.gitlab.com/ee/ci/examples/README.html)
+## Näited ja näpunäited
+* [Jenkins konveieri kasutusnäited](https://jenkins.io/doc/pipeline/examples/)
+* [Näpunäited konveieri kasutamisel](https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin)
+* [Gitlab CI baasil](https://docs.gitlab.com/ee/ci/examples/README.html)
 
 ---
 
@@ -127,10 +129,7 @@ Jenkinsi tööde visualiseerimine [Blue Ocean](https://jenkins.io/doc/book/blueo
 
 Jenkinsi installimine, seadistamine ja ühe töö seadistamine
 
-1. Jenkinsi installimine vastavalt [juhendile][installimine].
-2. Jenkinsi seadistamine vastavalt [slaididele][eelmised slaidid].
-3. Töö seadistamine analoogselt [slaididele][eelmised slaidid].
+1. Jenkinsi installimine vastavalt [juhendile](https://jenkins.io/doc/book/installing).
+2. Jenkinsi seadistamine vastavalt [slaididele](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
+3. Töö seadistamine analoogselt [slaididele](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
 
-
-[installimine]: https://jenkins.io/doc/book/installing
-[eelmised slaidid]: http://dijkstra.cs.ttu.ee/~gert/jenkins/
