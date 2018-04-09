@@ -1,17 +1,23 @@
-# Virtualiseerimine ja Docker (12. nädal)
+# Virtualiseerimine ja Docker
+
+---
 
 ## Eelmised slaidid
-Eelmised slaidid on [siin](admin13-virtualiseerimine.pdf)
+Eelmised slaidid on [siin](https://github.com/GertKanter/itv0050/blob/docker/admin13-virtualiseerimine.pdf)
 
-## Docker
-http://rancher.com/playing-catch-docker-containers/
-https://www.redhat.com/en/topics/containers/what-is-docker
+---
 
+## Docker lingid
+* [Introduction to Docker](https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf)
+* [Playing catch with docker containers](http://rancher.com/playing-catch-docker-containers/)
+* [What is Docker](https://www.redhat.com/en/topics/containers/what-is-docker)
+
+---
 
 ## Videoloengud
-[Docker?!? But I'm a SYSADMIN!](https://www.youtube.com/watch?v=M7ZBF-JJWVU)
-VMs = maja
-Paneelmaja = containers
+* [Docker?!? But I'm a SYSADMIN!](https://www.youtube.com/watch?v=M7ZBF-JJWVU)
+
+---
 
 ## Ülesanne
 
