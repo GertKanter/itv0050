@@ -18,62 +18,62 @@ Varasemaid slaide saab vaadata [siit](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
 
 ---
 
-### Pidevtarne kümme käsku
+## Pidevtarne kümme käsku
 [The Ten Commandments of Continuous Delivery](https://www.youtube.com/watch?v=fD3P51Yv6so) by Viktor Farcic (Cloudbees)
 
 ---
 
-#### I   Thou shalt be agile
+### I - Thou shalt be agile
 No silos, No departments
 
 ---
 
-#### II   Thou shalt refactor
+### II - Thou shalt refactor
 Rearchitecture your development code into testable code
 
 ---
 
-#### III   Thou shalt educate everyone
+### III - Thou shalt educate everyone
 There is no CD department
 
 ---
 
-#### IV   Thou shalt be small
+### IV - Thou shalt be small
 Big teams cannot do "continuous". Only small teams can do "continuous" (up to 10 engineers).
 That means monoliths must be split into smaller parts (microservices).
 
 ---
 
-#### V   Thou shalt practice TDD (Test-Driven Development)
+### V - Thou shalt practice TDD (Test-Driven Development)
 (somewhat optional) no tests, no commits
 
 ---
 
-#### VI   Thou shalt define your CD pipeline as code
+### VI - Thou shalt define your CD pipeline as code
 No more clicking around - don't use GUIs for defining CD pipelines.
 
 ---
 
-#### VII   Thou shalt have a fast pipeline
+### VII - Thou shalt have a fast pipeline
 One coffee, not longer (~15 minutes).
 (This depends on the project, but most projects should achieve this!)
 
 ---
 
-#### VIII   Thou shalt consider fixing a failed pipeline as highest priority
+### VIII - Thou shalt consider fixing a failed pipeline as highest priority
 Fix it first then continue developing.
 
 ---
 
-#### IX   Thou shalt run the CD pipeline locally
-Run and test as much as possible locally.
-Respect your coworkers.
+### IX - Thou shalt run the CD pipeline locally
+* Run and test as much as possible locally.
+* Respect your coworkers.
 
 ---
 
-#### X   Thou shalt commit only to the master branch
-If you trust your process then you can commit to master.
-You can use feature branches as long as you merge to master once a day.
+### X - Thou shalt commit only to the master branch
+* If you trust your process then you can commit to master.
+* You can use feature branches as long as you merge to master once a day.
 
 ---
 
