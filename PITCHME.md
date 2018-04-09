@@ -24,44 +24,44 @@ Varasemaid slaide saab vaadata [siit](http://dijkstra.cs.ttu.ee/~gert/jenkins/).
 ---
 
 ### I - Thou shalt be agile
-No silos, No departments
+No silos, No departments!
 
 ---
 
 ### II - Thou shalt refactor
-Rearchitecture your development code into testable code
+Rearchitecture your development code into testable code!
 
 ---
 
 ### III - Thou shalt educate everyone
-There is no CD department
+There is no CD department!
 
 ---
 
 ### IV - Thou shalt be small
-Big teams cannot do "continuous". Only small teams can do "continuous" (up to 10 engineers).
-That means monoliths must be split into smaller parts (microservices).
+* Big teams cannot do "continuous anything". Only small teams can do "continuous" (up to 10 engineers).
+* That means monoliths must be split into smaller parts (microservices).
 
 ---
 
 ### V - Thou shalt practice TDD (Test-Driven Development)
-(somewhat optional) no tests, no commits
+No tests means no commits.
 
 ---
 
 ### VI - Thou shalt define your CD pipeline as code
-No more clicking around - don't use GUIs for defining CD pipelines.
+* No more clicking around
+* Don't use GUIs for defining CD pipelines.
 
 ---
 
 ### VII - Thou shalt have a fast pipeline
-One coffee, not longer (~15 minutes).
-(This depends on the project, but most projects should achieve this!)
+One coffee, not longer (~15 minutes).  (This depends on the project, but most projects should achieve this!)
 
 ---
 
 ### VIII - Thou shalt consider fixing a failed pipeline as highest priority
-Fix it first then continue developing.
+Fix it first, then continue developing.
 
 ---
 
