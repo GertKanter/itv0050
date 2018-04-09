@@ -56,7 +56,9 @@ No tests means no commits.
 ---
 
 ### VII - Thou shalt have a fast pipeline
-One coffee, not longer (~15 minutes).  (This depends on the project, but most projects should achieve this!)
+One coffee, not longer (~15 minutes).
+
+(This depends on the project, but most projects should achieve this!)
 
 ---
 
