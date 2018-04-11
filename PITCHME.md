@@ -100,22 +100,22 @@ Dokumentatsioon asub [siin](https://jenkins.io/doc/)
 
 ---
 
-#### Getting started
+### Getting started
 Alustamise juhend on [siin](https://jenkins.io/doc/book/getting-started/)
 
 ---
 
-#### Installimine
+### Installimine
 Kuidas installida leiab [siit](https://jenkins.io/doc/book/installing)
 
 ---
 
-#### Konveier (pipeline)
+### Konveier (pipeline)
 Jenkinsi tööd [konveieritena](https://jenkins.io/doc/book/pipeline/)
 
 ---
 
-#### Blue Ocean
+### Blue Ocean
 Jenkinsi tööde visualiseerimine [Blue Ocean](https://jenkins.io/doc/book/blueocean/getting-started/)
 
 ---
