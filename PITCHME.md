@@ -6,8 +6,9 @@
 Eelmised slaidid on [siin](https://github.com/GertKanter/itv0050/blob/docker/admin13-virtualiseerimine.pdf)
 
 ---
-
 ## Docker slaidid
+* [Introduction to Docker (short)](https://www.slideshare.net/Docker/introduction-to-docker-2017)
+* [Docker?!?! But I'm a SysAdmin](https://www.slideshare.net/Docker/docker-but-im-a-sysadmin)
 * [Introduction to Docker](https://us.pycon.org/2016/site_media/media/tutorial_handouts/DockerSlides.pdf)
 
 ---
